@@ -1,0 +1,11 @@
+{
+  "name": "bootstrap4.visualstudio.starterkit",
+  "version": "0.0.1",
+  "description": "Bootstrap4 VisualStudio StarterKit",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "bootstrap": "^4.1.3",
+    "jquery": "^3.3.1"
+  }
+}
