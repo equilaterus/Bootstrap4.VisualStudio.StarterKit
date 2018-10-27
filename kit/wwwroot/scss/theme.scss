@@ -10,5 +10,11 @@ $theme-colors: ( "primary": #000000 );
 $font-family-sans-serif: 'Open Sans';
 $headings-font-weight: 700;
 
+// Custom styles
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
 // bootstrap
 @import "../../node_modules/bootstrap/scss/bootstrap";
