@@ -1,0 +1,14 @@
+﻿// Fonts imports
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+
+// Layout colors
+$body-bg: #d9d9d9;
+$body-color: #212121;
+$theme-colors: ( "primary": #000000 );
+
+// Fonts
+$font-family-sans-serif: 'Open Sans';
+$headings-font-weight: 700;
+
+// bootstrap
+@import "../../node_modules/bootstrap/scss/bootstrap";
